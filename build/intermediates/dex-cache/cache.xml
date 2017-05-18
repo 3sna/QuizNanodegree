@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/trisnawiyatni/.android/build-cache/5932a55fe236799a8ab4be7147304e9d3009321a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/trisnawiyatni/AndroidStudioProjects/ud839_Miwok-8fae046f71ed6be3756f2abb1b5452fbeb5a5618/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f93f030a8844cabedbdd9faeb10522bc220192b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/trisnawiyatni/AndroidStudioProjects/ud839_Miwok-8fae046f71ed6be3756f2abb1b5452fbeb5a5618/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b79d2ca1fcce953e472499b9744a651f6969d31d">
+        <dex dex="/Users/trisnawiyatni/AndroidStudioProjects/ud839_Miwok-8fae046f71ed6be3756f2abb1b5452fbeb5a5618/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d0cacc25cafbb29d4f75eab9abda91e7665f1de6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/trisnawiyatni/.android/build-cache/d5fcfcff6be77a4070ed7088c7759de7e52e2be8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/trisnawiyatni/AndroidStudioProjects/ud839_Miwok-8fae046f71ed6be3756f2abb1b5452fbeb5a5618/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99940be2c1b7414a60e9f44fc8f7e5e254eadda2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/trisnawiyatni/.android/build-cache/ffaf6b7809e3daefa8911acfdb8a333afcc6db45/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/trisnawiyatni/AndroidStudioProjects/ud839_Miwok-8fae046f71ed6be3756f2abb1b5452fbeb5a5618/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6c43bb1dfffb593422d591a7e50c2e66d9c43c7a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/trisnawiyatni/.android/build-cache/470e4c0f7d4d00a8334b5cdea55d1f59672cf2a7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/trisnawiyatni/AndroidStudioProjects/ud839_Miwok-8fae046f71ed6be3756f2abb1b5452fbeb5a5618/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bedc790f48ab9103b9ff22812b43cddb25bb5726/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/trisnawiyatni/.android/build-cache/cc39d360dca5ecd4734f1c6c5aa75bbb94a701c9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/trisnawiyatni/AndroidStudioProjects/ud839_Miwok-8fae046f71ed6be3756f2abb1b5452fbeb5a5618/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83be06705ea10410ea062df86ea32ffd8662cbb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/trisnawiyatni/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/trisnawiyatni/AndroidStudioProjects/ud839_Miwok-8fae046f71ed6be3756f2abb1b5452fbeb5a5618/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_abc1f97620330ff9fdbf5ad5e98f5b24ef611e82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/trisnawiyatni/.android/build-cache/ec7d82d347416a80839b41465349c855d0fde7ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/trisnawiyatni/AndroidStudioProjects/ud839_Miwok-8fae046f71ed6be3756f2abb1b5452fbeb5a5618/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ddc47e3852095c803776c6c50106ec558cea285/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/trisnawiyatni/.android/build-cache/ec7d82d347416a80839b41465349c855d0fde7ab/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/trisnawiyatni/AndroidStudioProjects/ud839_Miwok-8fae046f71ed6be3756f2abb1b5452fbeb5a5618/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_911d49584d06994a8a5a1d027828819e6c0a7751/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/trisnawiyatni/AndroidStudioProjects/ud839_Miwok-8fae046f71ed6be3756f2abb1b5452fbeb5a5618/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/trisnawiyatni/AndroidStudioProjects/ud839_Miwok-8fae046f71ed6be3756f2abb1b5452fbeb5a5618/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_06d887e9128ac52d34cb4985a52cbebb81831836/classes.dex" />
+    </item>
+
+</items>
